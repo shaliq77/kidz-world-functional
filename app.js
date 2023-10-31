@@ -123,7 +123,7 @@ function updatePrice() {
 // whatsapp integration
 
 var whatsappLink =
-  "https:api.whatsapp.com/send?phone=919995852615&text=Order%20details";
+  "https:api.whatsapp.com/send?phone=919000000000&text=Order%20details";
 
   // WhatsApp integration
   function updateWhatsappLink()  {
